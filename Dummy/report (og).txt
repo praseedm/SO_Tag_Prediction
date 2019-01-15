@@ -1,0 +1,54 @@
+Title
+-----------
+SGDC with OnevsRest :
+	{'Time_taken': '0:01:03.204682', 'accuracy': 0.12512873326467558, 'micro_f1_scoore': 0.40180296200901483}
+
+SGDC with OnevsRest - hinge :
+	{'Time_taken': '0:00:33.137024', 'accuracy': 0.12203913491246138, 'micro_f1_scoore': 0.4145579506404249}
+
+Logistic with OnevsRest :
+	{'Time_taken': '0:02:08.670043', 'accuracy': 0.10710607621009269, 'micro_f1_scoore': 0.3978883861236802}
+
+SVC :
+	{'Time_taken': '0:00:16.396039', 'accuracy': 0.10710607621009269, 'micro_f1_scoore': 0.3778883861236802}
+MLkNN 3 :
+	{'Time_taken': '0:00:16.396039', 'accuracy': 0.06333676622039135, 'micro_f1_scoore': 0.21131230166137763}
+
+MLkNN 5 :
+	{'Time_taken': '0:00:16.396039', 'accuracy': 0.0839340885684861, 'micro_f1_scoore': 0.25179597701149425}
+MLkNN 21 :
+	{'Time_taken': '0:00:16.396039', 'accuracy': 0.08650875386199794, 'micro_f1_scoore': 0.25004876145894284}
+
+
+Body
+---------
+
+
+SGDC with OnevsRest :
+	{'Time_taken': '0:01:08.344196', 'accuracy': 0.09629248197734294, 'micro_f1_scoore': 0.3264808362369338}
+
+Logistic with OnevsRest :
+	{'Time_taken': '0:03:08.959775', 'accuracy': 0.08496395468589084, 'micro_f1_scoore': 0.2856091277143909}
+
+SVC :
+	{'Time_taken': '0:00:38.434513', 'accuracy': 0.07518022657054584, 'micro_f1_scoore': 0.20810199465350607}
+
+SGDC with OnevsRest - hinge :
+	{'Time_taken': '0:00:55.573281', 'accuracy': 0.10247167868177137, 'micro_f1_scoore': 0.37291863022306}
+
+
+Title or Body
+-----------------
+
+SGDC OR :
+	{'Time_taken': 'add', 'accuracy': 0.131307929969104, 'micro_f1_scoore': 0.4649772209567198}
+
+SGDC hinge OR :
+	{'Time_taken': 'add', 'accuracy': 0.111740473738414, 'micro_f1_scoore': 0.47444401092469757}
+
+Logistic with OnevsRest OR :
+	{'Time_taken': 'add', 'accuracy': 0.11071060762100927, 'micro_f1_scoore': 0.43986636971046766}
+
+
+SVC OR :
+	{'Time_taken': 'add', 'accuracy': 0.14212152420185376, 'micro_f1_scoore': 0.40822622107969153}
