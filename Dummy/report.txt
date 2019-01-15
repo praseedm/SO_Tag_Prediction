@@ -1,0 +1,3 @@
+
+SGDC with OnevsRest:
+	{'Time taken': '0:15:10.799993', 'accuracy': 0.12770339855818744, 'micro f1 scoore': 0.4026455879980642}
