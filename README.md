@@ -15,11 +15,11 @@ Suggest the probable tags based on the content of question posted on Stack Overf
 * Scikit-multilearn
 ### NLP
 * NLTK
-#### Data Managemnet 
+### Data Managemnet 
 * SQLite3
 * Pandas
 * SQLAlchemy
-#### Plotting and Visualization
+### Plotting and Visualization
 * Matplotlib
 * Seaborn
 ## ![](/img/5.jpg) 
