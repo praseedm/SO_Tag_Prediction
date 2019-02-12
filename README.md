@@ -1,4 +1,4 @@
-## ![](/img/1.jpg) 
+# Stack Overflow tag prediction - Multi Label Classification
 ## ![](/img/2.jpg) 
 ## ![](/img/3.jpg) 
 ## ![](/img/4.jpg) 
