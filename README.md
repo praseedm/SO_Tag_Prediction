@@ -1,5 +1,8 @@
 # Stack Overflow tag prediction - Multi Label Classification
-## ![](/img/2.jpg) 
+## Goal : Predict relevent tags to stack overflow questions.
+## Uses : 
+* Searching for relevent questions become easy
+* Simplifies answering the questions by experts
 ## ![](/img/3.jpg) 
 ## ![](/img/4.jpg) 
 ## ![](/img/5.jpg) 
